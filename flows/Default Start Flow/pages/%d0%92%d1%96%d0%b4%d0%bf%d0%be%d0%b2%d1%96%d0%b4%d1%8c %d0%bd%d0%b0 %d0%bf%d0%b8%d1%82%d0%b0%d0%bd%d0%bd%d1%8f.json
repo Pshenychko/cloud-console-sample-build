@@ -1,0 +1,38 @@
+{
+  "name": "0b6f59dc-8010-4c22-8e08-2a5cb76e66c6",
+  "displayName": "Відповідь на питання",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "generators": [ {
+      "generator": "projects/newagent-qyih/locations/global/agents/c5867360-b0ec-4af5-a017-f55ed285b824/generators/4d93eeeb-4e64-450c-b592-b70b6e694296",
+      "outputParameter": "$request.generative."
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "Запитання",
+    "triggerFulfillment": {
+    
+    },
+    "name": "43ec7e84-3e6f-4b64-84a4-21d53488155c"
+  } ],
+  "eventHandlers": [ {
+    "targetFlow": "Default Start Flow",
+    "event": "Клієнт задає питання",
+    "triggerFulfillment": {
+      "generators": [ {
+        "generator": "projects/newagent-qyih/locations/global/agents/c5867360-b0ec-4af5-a017-f55ed285b824/generators/4d93eeeb-4e64-450c-b592-b70b6e694296",
+        "outputParameter": "$request.generative."
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "7bcef631-ec5d-48c6-b646-aeb8520ac1ae"
+  } ],
+  "description": "Ти мусиш знайти інформацію на сайті банку і дати відповідь клієнту"
+}

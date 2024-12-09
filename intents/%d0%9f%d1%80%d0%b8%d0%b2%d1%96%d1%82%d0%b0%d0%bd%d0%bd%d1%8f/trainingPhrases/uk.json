@@ -1,0 +1,52 @@
+{
+  "trainingPhrases": [ {
+    "id": "e511b9d5-d748-4b5d-b809-057ab2a77556",
+    "parts": [ {
+      "text": "привіт"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  }, {
+    "id": "be70104e-4984-4db5-9e97-56750bcefc43",
+    "parts": [ {
+      "text": "добридень"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  }, {
+    "id": "ceba214d-826e-42e4-a825-75246fab6e67",
+    "parts": [ {
+      "text": "добрий день"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  }, {
+    "id": "1b64bc63-884f-4df8-a13b-0443240868c4",
+    "parts": [ {
+      "text": "давно не бачились"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  }, {
+    "id": "76a66155-e200-4b54-8904-9f2343f81287",
+    "parts": [ {
+      "text": "здрастуйте"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  }, {
+    "id": "ddbeb76c-7323-43fa-8c06-5cacf47e0425",
+    "parts": [ {
+      "text": "вітаю"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  }, {
+    "id": "f8f95242-c6ac-4b3e-918a-1fd9d0523666",
+    "parts": [ {
+      "text": "здраствуй"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "uk"
+  } ]
+}

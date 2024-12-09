@@ -1,0 +1,13 @@
+{
+  "name": "4d93eeeb-4e64-450c-b592-b70b6e694296",
+  "displayName": "Gemini flash 1.5",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 1113,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash-002"
+  }
+}

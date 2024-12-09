@@ -1,0 +1,27 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "що "
+    }, {
+      "text": "мені",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": " робити з депозитом"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "ЯК МЕНІ РОЗБЛОКУВАТИ КАРТКУ"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "які тарифи картки?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}
